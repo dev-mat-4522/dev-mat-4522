@@ -18,7 +18,6 @@
 - ⚛️ Background spans **quantum circuit simulation** (IBM Qiskit), **blockchain infrastructure**, and **signal processing**
 - 🏆 Won **QtHack04**, a quantum computing hackathon by the National Quantum Mission & SRMIST
 - 🎓 Perfect 10.0 SGPA in Semesters 3 & 4
-- 🌱 Actively applying to Software/AI Engineering internships at top MNCs
 - 💬 Ask me about Python, Qiskit, quantum algorithms, or backend systems
 - 📫 Reach me at **ddevsigh@gmail.com**
 
