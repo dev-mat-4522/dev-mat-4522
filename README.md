@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there,%20I'm%20Dev%20Raj%20%F0%9F%91%8B&fontSize=32&fontAlignY=35&desc=Backend%20AI%20Engineering%20Intern%20%7C%20Quantum%20Computing%20%7C%20Blockchain&descAlignY=55&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there,%20I'm%20Dev%20Raj%20%F0%9F%91%8B&fontSize=32&fontAlignY=35&desc=Backend%20AI%20Engineering%20Intern%20%7C%20Quantum%20Computing%20%7C%20Blockchain&descAlignY=55&descSize=16&animation=fadeIn&fontColor=ffffff" width="100%"/>
 
 <a href="https://linkedin.com/in/dev-raj-030104335"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:ddevsigh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/dev-mat-4522"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=B.Tech+ECE+%40+SRMIST+Chennai+%7C+CGPA+9.85%2F10;Backend+AI+Engineering+Intern+%40+FlyRank+AI;Quantum+Computing+%2B+Blockchain+%2B+Signal+Processing;QtHack04+%F0%9F%8F%86+National+Quantum+Mission+Hackathon+Winner" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=B.Tech+ECE+%40+SRMIST+Chennai+%7C+CGPA+9.85%2F10;Backend+AI+Engineering+Intern+%40+FlyRank+AI;Quantum+Computing+%2B+Blockchain+%2B+Signal+Processing;QtHack04+%F0%9F%8F%86+National+Quantum+Mission+x+SRM+Hackathon+Winner" alt="Typing SVG" />
 
 </div>
 
@@ -17,7 +17,7 @@
 - 🔭 Currently interning as a **Backend AI Engineering Intern** at **FlyRank AI**, Chennai
 - ⚛️ Background spans **quantum circuit simulation** (IBM Qiskit), **blockchain infrastructure**, and **signal processing**
 - 🏆 Won **QtHack04**, a quantum computing hackathon by the National Quantum Mission & SRMIST
-- 🎓 2nd-year ECE undergrad at SRMIST — CGPA 9.85/10, perfect 10.0 SGPA in Semesters 3 & 4
+- 🎓 Perfect 10.0 SGPA in Semesters 3 & 4
 - 🌱 Actively applying to Software/AI Engineering internships at top MNCs
 - 💬 Ask me about Python, Qiskit, quantum algorithms, or backend systems
 - 📫 Reach me at **ddevsigh@gmail.com**
@@ -38,8 +38,8 @@ $ past_experience
 > Quantum Computing Intern @ AICTE–EduSkills Academy
 
 $ fun_fact
-> Simulated an EVM-style distributed ledger from scratch, then went and
-> won a national quantum hackathon two months later.
+> Built a Sampling & Aliasing Demonstrator app, then went on to
+> win a national quantum computing hackathon.
 
 $ echo $MOTTO
 > "Learn the theory deep enough to build with it, not just talk about it."
@@ -61,29 +61,32 @@ $ echo $MOTTO
 
 ### 🚀 Featured Projects
 
-<table>
+<table align="center">
 <tr>
-<td width="50%">
+<td width="33%" valign="top">
 
 **[Sampling & Aliasing Demonstrator](https://github.com/dev-mat-4522/sample-and-aliasing-demonstrator-quantum)**
+
 Interactive Streamlit app visualizing signal sampling & Nyquist limits, benchmarking classical FFT against Quantum Fourier Transform.
+
 `Python` `Streamlit` `NumPy` `SciPy` `Plotly`
 
 </td>
-<td width="50%">
+<td width="33%" valign="top">
 
 **[Caesar Cipher Tool](https://github.com/dev-mat-4522/Ceaser_Cipher_Tool)**
+
 Cross-platform Tkinter desktop app for encryption, decryption, and automated brute-force cryptanalysis with real-time text analytics.
+
 `Python` `Tkinter` `Matplotlib`
 
 </td>
-</tr>
-<tr>
-
-<td width="50%">
+<td width="33%" valign="top">
 
 **[Quantum Circuit Visualizer](https://github.com/dev-mat-4522/quantum-circuit-visualizer)**
+
 Interactive tool for building and visualizing quantum circuits.
+
 `Python` `Qiskit`
 
 </td>
@@ -94,21 +97,41 @@ Interactive tool for building and visualizing quantum circuits.
 
 ### 📊 GitHub Stats
 
+<table align="center">
+<tr>
+<td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=dev-mat-4522&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /></td>
+<td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mat-4522&layout=compact&theme=tokyonight&hide_border=true" /></td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=dev-mat-4522&theme=tokyonight&hide_border=true" width="70%" />
+</div>
+
+<br>
+
+### 🐍 Contribution Snake
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dev-mat-4522&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mat-4522&layout=compact&theme=tokyonight&hide_border=true" width="34%" />
-
-<img src="https://streak-stats.demolab.com/?user=dev-mat-4522&theme=tokyonight&hide_border=true" width="70%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-mat-4522/dev-mat-4522/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-mat-4522/dev-mat-4522/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dev-mat-4522/dev-mat-4522/output/github-contribution-grid-snake.svg" width="90%" />
+</picture>
 
 </div>
 
 <br>
 
-### 🏆 Trophies
-
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dev-mat-4522&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+### 💭 Dev Quote
+
+> *"The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities."*
+>
+> — Edsger W. Dijkstra
+
 </div>
 
 <br>
